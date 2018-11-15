@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataBaseHelper.cs](./CS/App_Code/DataBaseHelper.cs) (VB: [DataBaseHelper.vb](./VB/App_Code/DataBaseHelper.vb))
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))**
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxGridView - How to implement Batch Editing using Entity Framework
 
 
