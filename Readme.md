@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to implement Batch Editing using Entity Framework
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t264042/)**
+<!-- run online end -->
 
 
 <p>This code example demonstrates how to use Entity Framework as an ASPxGridView data source when editing data in Batch Edit mode.<br />Data is updated manually by handling the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridView_BatchUpdatetopic">ASPxGridView.BatchUpdate</a> event.</p>
